@@ -369,5 +369,3 @@ The project has several limitations:
 * Combining multiple models increases computational overhead compared with using a single model.
 
 
-
-BSc (Hons) Computer Science
